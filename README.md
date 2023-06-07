@@ -26,3 +26,6 @@ Kemudian data - data tersebut digunakan untuk difilter sehingga didapatkan freku
 
 ## Pasien Corona Tingkat Sedang
 ![image](https://github.com/rayhannarindran/psd_filtering/assets/88973632/d4b45ebc-1666-4ad4-866f-393853fee635)
+
+# Kesimpulan
+Pada analisa dari penulis, didapatkan bahwa pasien dengan penyakit corona lebih aktif di frekuensi dibawah 5000Hz dibanding pasien sehat, namun hal ini harus dianalisa dan dilanjutkan untuk menghasilkan hasil yang lebih akurat.
