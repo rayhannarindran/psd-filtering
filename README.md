@@ -1,4 +1,5 @@
 # PROGRAM FILTERING PERNAFASAN PASIEN CORONA
+# Oleh Rayhan Narindran - 5024211022
 
 Program yang saya tulis disini merupakan filtering pada pernafasan manusia yang berkisat dari 3000 hingga 6000Hz. Dari situ saya menganalisa perbedaan antara frekuensi yang paling aktif pada pasien sehat dan pasien pengidap corona.
 
